@@ -1,0 +1,22 @@
+
+body{
+    background: black;
+}
+.canvas{
+    background: black;
+}
+h1{
+    width: 1000px;
+    text-align: center;
+}
+.canvas canvas{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 500px;
+}
+
+
+
+
